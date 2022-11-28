@@ -22,4 +22,4 @@ Files
 | `0-run` | A Shell script that runs a Python script |
 | `1-run_inline` | A Shell script that runs Python code and the Python code will be saved in the environment variable `$PYCODE` |
 | `2-print.py` | A Python script that prints exactly `"Programming is like building a multilingual puzzle` |
-| `3-print_number.py` | To Complete this `source code` <https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py> in order to print the integer stored in the variable number`, followed by `Battery street` | 
+| `3-print_number.py` | To Complete this [`source code`](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable number`, followed by `Battery street` | 
