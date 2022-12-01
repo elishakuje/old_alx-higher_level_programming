@@ -23,9 +23,11 @@ Technologies
 - Scripts written in Bash `5.0.17(1)`                
 - All Python files are intepreted using `Python3 (3.8.5)` 
 - Tested on Ubuntu 20.04 LTS
-- All codes tested with `pycodestyle (version 2.8.*)`                       
-Files                          -----------------------
-The following files are scripts and programs written in Python
+- All codes tested with `pycodestyle (version 2.8.*)` 
+ 
+Files
+ ----------------------
+The following files are scripts and programs written in Python:-
 | Filename | Description |
 | --- | --- |
 |`0-positive_or_negative.py` | Assign a random signed number to the variable `number` each time it is executed. Complete the [`source code`](https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py) in order to print whether the number stored in the variable `number` is positive or negative. |
