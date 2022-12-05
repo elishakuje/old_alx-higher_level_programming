@@ -1,5 +1,4 @@
 Python - Data Structures: Lists, Tuples
-
  ---------------------------
 This Project is done during `Full Stack Software Engineering Study @ Alx_Africa/Holberton_School` it aims is to learn about:-
 - Why Python programming is awesome
@@ -20,10 +19,12 @@ Technologies
 - Scripts written in Bash `5.0.17(1)` 
 - Interpreted/compiled using python3 `3.8.5` 
 - Tested on ubuntu `20.04 LTS`
-- Files are written according to pycodestyle `2.10.0` standard 
+- Files are written according to pycodestyle `2.10.0` standard
+
 Files
- --------------------------
-The following files are scripts and programs written in Python
+ -------------------------
+The following files are scriptsand programs written in python;
+
 | Filename | Description |
 | --- | --- |
 | `0-print_list_integer.py` | A function that prints all integers of a list. |
