@@ -28,4 +28,4 @@ The following files are scripts and programs written in Python
 | `5-variable_load.py` | A program that imports the variable `a` from the file `variable_load_5.py` and prints its value. |
 | `100-my_calculator.py` | A program that imports all functions from the file `calculator_1.py` and handles basic operations. |
 | `101-easy_print.py` | A program that prints `#pythoniscool`, followed by a new line, in the standard output. |
-| `102-magic_calculation.py` | A 
+| `102-magic_calculation.py` | A python function `def magic_calculation(a, b):` |  
