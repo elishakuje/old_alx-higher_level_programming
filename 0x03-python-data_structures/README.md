@@ -23,7 +23,7 @@ Technologies
 
 Files
  -------------------------
-The following files are scriptsand programs written in python;
+The following files are scriptsand programs written in python3;
 
 | Filename | Description |
 | --- | --- |
